@@ -4,7 +4,7 @@
 
 </div>
 <p align="center">
-  Nesse desafio foi construido um pequeno app mobile o GoRestaurant onde deveriamos listar os pratos de comidas da Fake API, navegar para a página com detalhes do prato aumentar ou diminiur a quantidade de pratos de comidas.
+  Nesse desafio foi construido um pequeno app mobile o GoRestaurant onde deveriamos listar os pratos de comidas da Fake API, navegar para a página com detalhes do prato e aumentar ou diminiur a quantidade de pratos de comidas.
 </p>
 
 <br/>
