@@ -52,13 +52,13 @@ $ yarn || npm install
 # O projeto está utilizando uma fake API e para executar utilize:
 $ yarn json-server server.json -p 3333
 
-# use esses comandos para rodar o P
+# use esses comandos para rodar o Projeto
 $ yarn start || npm run start
 
 # use esses comandos para rodar o Projeto no seu emulador do android
 $ yarn android || npm run android
 
-# use esses comandos caso esteja utilizando o emulador do iOS
+# use esses comandos caso esteja utilizando o emulador do IOS
 $ yarn ios || npm run ios
 
 # use esses comandos para rodar os testes
